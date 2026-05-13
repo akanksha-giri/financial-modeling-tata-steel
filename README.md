@@ -44,3 +44,5 @@ skills including forecasting, cost analysis, and structured financial
 statement construction.
 
 ---
+> *Note: This is a practice model. Projected years (E) reflect 
+> forward estimates built from 2020-2021 base actuals.*
